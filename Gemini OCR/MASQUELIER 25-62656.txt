@@ -1,0 +1,21 @@
+1. **Vendor name and details:**
+ETABLISSEMENTS MASQUELIER ACIERS
+Produits Métallurgiques
+Rue de la Croix du Majeur 26 - 7110 Strey-Bracquenies
+Tel. 00.32 (0)64/22.23.16 et 22.23.17
+Fax 00.32 (0)64/21.69.51
+IBAN : BE58 7320 1580 4179
+BIC : CREGBEBB
+
+2. **Client name and details:**
+P.MAT SPRL +
+ROUTE DE MERBES, 210
+B-7133 BUVRINNES
+BE0829142934
+
+3. **Information of table:**
+%-TVA: 21.0
+BASE-TAXABLE: 4253.38
+MONTANT-TVA: 893.21
+TOTAL: 5146.59 EUR
+TOTAL A PAYER: 5146.59 EUR

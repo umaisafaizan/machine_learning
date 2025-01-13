@@ -1,0 +1,18 @@
+1. **Vendor name and details:**
+MS JEUMONT PHARMACIENS
+Rue de Ressaix 18 bte b2
+7130 BINCHE
+TVA BE 0760.963.713
+CPH 64-1262-0942-1252 CPHBBET5
+
+2. **Client name and details:**
+Pharmacie de Marie Harvengt (Mullie)
+Chaussée de Mons 5
+7070 Le Roeulx
+TVA BE 0445.548.714
+
+3. **Table information:**
+- SOIT 34 h à 50 euros H tva: 1700,00
+- + 21% de TVA soit: 357,00
+- Forfait de déplacement: 4 x 9: 36,00
+- TOTAL: 2093,00
