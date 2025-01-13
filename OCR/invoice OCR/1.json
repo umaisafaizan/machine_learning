@@ -1,0 +1,86 @@
+{
+    "Title": {
+        "Title": "VENTA DE ABARROTES EN"
+    },
+    "Information": {
+        "RUC": "R U C : 20523854403",
+        "Invoice": "FACTURA ELECTRONICA",
+        "Invoice No": "Nro. F002-0068091"
+    },
+    "Client Information": {
+        "Client Name": "DEK EP S.A.C."
+    },
+    "Body Information": [
+        {
+            "PRECIO UNIT.": [
+                "47.00",
+                "25.00",
+                "9.50",
+                "210.00",
+                "50.00",
+                "25.00",
+                "20.00",
+                "40.00"
+            ]
+        },
+        {
+            "Descripcion": [
+                "CP WYPALL X-70 ROLLOX 88",
+                "OCAS TIPO TIRA R&G X 100 UN",
+                "APEL TOALLA MARRON ECOLOGICO X UN",
+                "ZUCAR BLANCA CARTAVIO X 50 KL",
+                "ALSA PONZU MIZKAN X 709 ML",
+                "APEL HIGIENICO BLANCO INSTITUCIONAL X 6",
+                "LGA COMBU X 200 G",
+                "OGARASHI CHICHIMI ONIGIRI X 300 G"
+            ]
+        },
+        {
+            "PRECIO VENTA": [
+                "94.00",
+                "50.00",
+                "57.00",
+                "210.00",
+                "50.00",
+                "25.00",
+                "40.00",
+                "40.00"
+            ]
+        },
+        {
+            "CANTIDAD": [
+                "2.00",
+                "2.00",
+                "6.00",
+                "1.00",
+                "1.00",
+                "1.00",
+                "2.00",
+                "1.00"
+            ]
+        },
+        {
+            "UNIDAD": [
+                "UN",
+                "CAJ",
+                "UN",
+                "SK",
+                "UN",
+                "PQT",
+                "UN",
+                "UN"
+            ]
+        }
+    ],
+    "Tax Information": {
+        "Subtotal": "566.00",
+        "DESCUENTO": "0.00",
+        "OP. GRATUITAS": "0.00",
+        "Total Valor": "479.66",
+        "Op. exonerada": "0.00",
+        "Op. inafecta": "0.00",
+        "ICBPER": "0.00",
+        "IGV": "86.34",
+        "Importe Total": "566.00"
+    }
+}
