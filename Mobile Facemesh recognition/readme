@@ -1,1 +1,28 @@
+1. Frontend
+Technology Used: React Native (Mobile App)
 
+
+
+
+
+2. Backend
+Technology Used: Python, Flask/Django (API), OpenCV, TensorFlow
+
+
+
+
+
+
+3. Face Detection and Mesh Generation
+Technology Used: MDCNN, DeLiP
+
+
+
+
+4. Machine Learning Models
+Technology Used: MDCNN, DeLiP
+
+
+
+Description : 
+             A mobile application that performs real-time face recognition and FaceMesh generation using MDCNN (Multi-task Cascaded Convolutional Networks) and DeLiP (Deep Learning Inference Processor) for accurate and efficient facial landmark detection.
