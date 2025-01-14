@@ -1,1 +1,15 @@
+1. Backend
+Technology Used: Django
+
+
+
+
+2. AI Integration
+Technology Used: Gemini API
+
+
+
+Description :
+             A robust OCR (Optical Character Recognition) system built using Gemini API, Django, and PaddleOCR for efficient and accurate text extraction from images and documents.
+
 
