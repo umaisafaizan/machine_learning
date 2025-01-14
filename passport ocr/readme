@@ -1,1 +1,21 @@
+1. Backend
+Technology Used: Python, Flask/Django, Microsoft Azure Cognitive Services API
+
+
+
+
+
+2. OCR Processing with Microsoft Azure Cognitive Services
+Technology Used: Microsoft Azure Cognitive Services, Python
+
+
+
+
+
+
+Description : 
+             A Passport OCR System that leverages Microsoft Azure Cognitive Services to perform Optical Character Recognition (OCR) on passport images. This system extracts relevant information, such as the passport number, name, date of birth, and expiration date, from scanned passport images for further processing or validation.
+
+
+
 
