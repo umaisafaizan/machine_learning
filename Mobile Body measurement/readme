@@ -1,1 +1,23 @@
+1. Frontend
+Technology Used: React Native (Mobile App)
+
+
+
+2. Backend
+Technology Used: Python, Flask/Django (API), OpenCV, TensorFlow
+
+
+
+
+
+3. Computer Vision Models
+Technology Used: OpenCV, TensorFlow, Custom Segmentation Models
+
+
+
+
+Description : 
+             A mobile application that utilizes pose estimation, body segmentation, and computer vision techniques for accurate body measurements. This system leverages CD (Cascade Detection), CL (Contour Learning), and advanced segmentation methods for real-time analysis of body posture and measurements.
+
+
 
