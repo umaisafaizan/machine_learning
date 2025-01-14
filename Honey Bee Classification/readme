@@ -1,1 +1,27 @@
+1. Backend
+Technology Used: Flask, Python
+
+
+
+
+2. Object Detection
+Technology Used: YOLOv5
+
+
+
+
+3. Machine Learning Model
+Technology Used: YOLOv5
+
+
+
+4. Deployment
+Technology Used: Flask
+
+
+
+Description : 
+             An innovative object detection system built to detect honey bees in images and videos using YOLOv5 and served through a Flask web application for real-time predictions.
+
+
 
