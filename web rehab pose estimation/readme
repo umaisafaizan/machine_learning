@@ -1,1 +1,12 @@
+1. Backend
+Technology Used: Python, Flask/Django, Pose Estimation Libraries (e.g., Mediapipe, OpenPose)
 
+
+
+3. Pose Estimation Module
+Technology Used: Pose Estimation Frameworks (e.g., TensorFlow, PyTorch, Mediapipe)
+
+
+
+Description : 
+             A system for monitoring and analyzing rehabilitation exercises using Human Body Pose Estimation. This project is designed to evaluate patients' posture and movements during physical therapy sessions, ensuring accuracy and providing feedback for recovery improvement.
