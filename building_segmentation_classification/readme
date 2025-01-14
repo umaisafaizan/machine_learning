@@ -1,1 +1,10 @@
+1. Backend
+Technology Used: Python, Flask/Django (API), Detectron2, PyTorch
+
+
+
+
+Description : 
+             A Building Segmentation and Classification System that leverages Detectron2, a state-of-the-art object detection and segmentation framework. This system is designed to detect, segment, and classify buildings from aerial or satellite imagery, providing precise building boundaries and classification labels.
+
 
