@@ -1,1 +1,18 @@
-OCR
+1. Frontend
+Technology Used: React, HTML, CSS, JavaScript
+
+
+
+
+2. Backend
+Technology Used: Python, Flask/Django (API), Tesseract OCR, OpenCV
+
+
+
+3. OCR Processing
+Technology Used: Tesseract OCR, OpenCV
+
+
+
+Description : 
+             An OCR-based invoice processing system that automatically extracts key information from invoices using specialized Invoice OCR techniques. This project leverages advanced optical character recognition to identify, extract, and organize important details from invoice documents.
