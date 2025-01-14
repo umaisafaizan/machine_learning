@@ -1,1 +1,21 @@
+1. Frontend
+Technology Used: React Native
+
+
+
+2. Backend
+Technology Used: Python , MediaPipe
+
+
+
+3. Iris Detection with MediaPipe
+Technology Used: MediaPipe (Face Mesh, Eye Tracking)
+
+
+
+
+
+Description : 
+             A Mobile Iris Detection System that uses MediaPipe for real-time detection of the iris, enabling accurate tracking of the eye and iris position on mobile devices. This app provides an interactive way to detect and track eye movements, offering potential applications in security, health monitoring, and user interface control.
+
 
