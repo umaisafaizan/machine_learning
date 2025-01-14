@@ -1,1 +1,21 @@
+1. Frontend
+Technology Used: React Native,
+
+
+
+2. Backend
+Technology Used: Python, Flask/Django (API), Stable Diffusion v8, TensorFlow/PyTorch / body measurement api
+
+
+
+
+3. Virtual Try-On with Stable Diffusion v8
+Technology Used: Stable Diffusion v8 (AI Model), PyTorch
+
+
+
+
+
+Description : 
+             A Cloth Try-On Application that uses Stable Diffusion v8 for generating realistic clothing try-on experiences. This app allows users to upload their photos and virtually try on clothes using AI-powered image generation and manipulation, providing an immersive and interactive virtual fitting room experience.
 
