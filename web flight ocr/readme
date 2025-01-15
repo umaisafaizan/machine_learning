@@ -1,1 +1,23 @@
+1. Frontend
+Technology Used: Django Templates
+
+
+
+
+
+2. Backend
+Technology Used: Django, Python
+
+
+
+
+
+3. OCR Module
+Technology Used: Gemini OCR
+
+
+
+
+Description : 
+             A web-based Flight OCR (Optical Character Recognition) system designed to extract and process flight-related data from documents. Leveraging Gemini OCR for accurate text recognition and Django for backend operations, this project simplifies document handling for the aviation industry.
 
